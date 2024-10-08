@@ -1,0 +1,4 @@
+git clone https://github.com/ultralytics/ultralytics.git
+cd ultralytics
+/home/pi/myenv/bin/pip3 install .
+/home/pi/myenv/bin/pip3 install -r requirements.txt
